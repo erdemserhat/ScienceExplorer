@@ -1,0 +1,47 @@
+<resources>
+    <string name="app_name">ScienceExplorer</string>
+    <string name="placeholder_search">Search</string>
+    <string name="scientists_title">Discover Famous Scientists</string>
+    <string name="information_cards_title">You may be interested in</string>
+    <string name="bottom_navigation_home">Home</string>
+    <string name="bottom_navigation_profile">Profile</string>
+
+    <!--Scientists -->
+    <string name= "albert_einstein">Albert Einstein</string>
+    <string name= "nikola_tesla">Nikola Tesla</string>
+    <string name= "isaac_newton">Isaac Newton</string>
+    <string name= "galileo">Galileo</string>
+    <string name= "marie_curie">Marie Curie</string>
+    <string name= "thomas_edison">Thomas Edison</string>
+    <string name= "bohr">Bohr</string>
+    <string name= "ibn_sina">Ibn Sina</string>
+    <string name= "stephen_hawking">Stephen Hawking</string>
+    <string name= "aziz_sancar">Aziz Sancar</string>
+    <string name= "archimedes">Archimedes</string>
+    <string name= "oktay_sinanoglu">Oktay Sinanoğlu</string>
+    <string name= "euler">Leonhard Euler</string>
+    <string name= "pasteur">Louis Pasteur</string>
+
+    <!--Information Cards-->
+    <string name="expansion_rate_universe">Expansion Rate and Nature of the Universe</string>
+    <string name="discovery_dna">Discovery of DNA and Genetic Encoding</string>
+    <string name="mysteries_quantum_physics">Mysteries of Quantum Physics</string>
+    <string name="infinite_digits_pi">Infinite Digits of Pi</string>
+    <string name="particle_physics">Particle Physics and Fundamental Particles</string>
+    <string name="schwarzschild_black_holes">Schwarzschild Black Holes and Space-Time Warping</string>
+    <string name="human_brain_unexplored">Unexplored Territories of the Human Brain</string>
+    <string name="higgs_boson_mass">Higgs Boson and Mechanism of Mass Acquisition</string>
+    <string name="potential_quantum_computers">Potential of Quantum Computers</string>
+    <string name="big_bang_theory">Big Bang Theory and the Origin of the Universe</string>
+    <string name="artificial_intelligence_ml">Artificial Intelligence and Machine Learning</string>
+    <string name="neurons_nervous_system">Functioning of Neurons and the Nervous System</string>
+    <string name="theory_relativity_equation">Theory of Relativity and E=mc² Equation</string>
+    <string name="biological_clocks_nature">Biological Clocks and Rhythms of Nature</string>
+    <string name="electricity_magnetism">Relationship Between Electricity and Magnetism</string>
+
+
+
+
+
+</resources>
+
