@@ -9,7 +9,7 @@
 - **Interactive UI**: Utilizing Jetpack Compose, the app features a dynamic and responsive user interface, making the learning experience enjoyable and intuitive.
 - **Search Functionality**: Users can easily search for specific scientists or scientific topics within the app.
 
-## Introducion Vide
+## Introducion Video
 
 
 https://github.com/user-attachments/assets/c27a2e55-e44f-4255-8af8-158725264f96
